@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "dc4f162b26e42678",
+    "type": "split",
+    "children": [
+      {
+        "id": "46765761112e1957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a5eb66bee9383f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "974f06b67fe1a3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Kragan Kurganson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kragan Kurganson"
+            }
+          },
+          {
+            "id": "b0a05731a3eb5506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Kragan Kurganson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kragan Kurganson"
+            }
+          },
+          {
+            "id": "27b007bac1bad646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Asesor Sorland Hohenloche.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asesor Sorland Hohenloche"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d5af842d0e5d127",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8eab79dff3ec3e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a0dd84be93685d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fead7aa9427dfab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c80ccbca6fa2f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bfbd7b1b751eff8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b5c8448a4dd057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29686daf8f613e25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5905359f15d49fc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f9a04e6582353a52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d973f7067ea8b232",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46a5eb66bee9383f",
+  "lastOpenFiles": [
+    "Postacie/Kurgan Kraganson.md",
+    "Postacie/Kragan Kurganson.md",
+    "Postacie/Alfred.md",
+    "Postacie/Snovid Postrzygacz.md",
+    "Postacie",
+    "Urolanel Mornil.md",
+    "Untitled.md",
+    "Tabalheim.md",
+    "Postacie/Asesor Sorland Hohenloche.md",
+    "create a link.md",
+    "Welcome.md",
+    "Sraken pierdaken.md"
+  ]
+}
