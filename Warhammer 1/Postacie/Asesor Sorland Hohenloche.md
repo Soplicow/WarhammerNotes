@@ -1,1 +1,3 @@
 #postać
+**Rasa**:
+- Człowiek?

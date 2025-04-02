@@ -1,5 +1,6 @@
 #postać 
-Elf
+**Rasa**:
+- [[Elf]]
 Zaczął podróże z:
 - [[Snovid Postrzygacz]]
 - [[Alfred]]
