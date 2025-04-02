@@ -1,3 +1,0 @@
-#miasto
-
-[[Asesor Sorland Hohenloche]]

@@ -1,5 +1,6 @@
 #postać 
-Krasnolud
+**Rasa**:
+- [[Krasnolud]]
 Zaczął podróże z:
 - [[Kragan Kurganson]]
 - [[Alfred]]

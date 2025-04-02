@@ -1,0 +1,2 @@
+#rasa
+**Niziołki** – rasa małych humanoidów zamieszkujących [Krainę Zgromadzenia](https://warhammer.fandom.com/pl/wiki/Kraina_Zgromadze%C5%84 "Kraina Zgromadzeń") (w [Imperium](https://warhammer.fandom.com/pl/wiki/Imperium "Imperium")), a także rozproszonych po innych regionach [Starego Świata](https://warhammer.fandom.com/pl/wiki/Stary_%C5%9Awiat "Stary Świat").
