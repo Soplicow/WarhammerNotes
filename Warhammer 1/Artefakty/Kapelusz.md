@@ -1,0 +1,2 @@
+#artefakt
+GIGANTYCZNY kapelusz który [[Alfred]] dostał od [[Ogr|ogrów]] w zamian za 7 (chyba) dzieci/ludzi. Shit happens people die I guess. Kapelusz jest symbolem ofiary niewłasnej czyli zabierania żywota niewinnym.

@@ -1,4 +1,4 @@
-#postać 
+#postać #pc
 **Rasa**:
 - [[Niziołek]]
 Zaczął podróże z:

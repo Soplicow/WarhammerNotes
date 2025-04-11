@@ -1,4 +1,4 @@
-#postać 
+#postać #pc
 **Rasa**:
 - [[Elf]]
 Zaczął podróże z:
