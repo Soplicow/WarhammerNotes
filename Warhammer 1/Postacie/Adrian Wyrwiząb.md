@@ -1,0 +1,2 @@
+#postać 
+Skurwysyn i łotrzyk jakich mało. Po kradzieży wielu zębów okolicznych mieszkańców Badau oraz drogocennego zęba [[Snovid Postrzygacz]], zbiegł w lasy w okolicach [[Talabheim]]. Swój marny koniec spotkał jako zmutowany byt, zniszczony przez bohaterów.
