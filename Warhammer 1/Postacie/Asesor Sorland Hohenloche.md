@@ -1,3 +1,5 @@
 #postać
 **Rasa**:
-- Człowiek?
+- Człowiek
+Profesja:
+- Sędzia
