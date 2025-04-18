@@ -1,0 +1,1 @@
+Drogocenny naszyjnik z kryształowego zęba należący do [[Snovid Postrzygacz]]. Stworzony po walce z [[Adrian Wyrwiząb]].

@@ -1,1 +1,2 @@
 #postać 
+Aptekarz z Talabheimu

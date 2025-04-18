@@ -1,0 +1,2 @@
+#postać 
+Przebiegły ''szlachic'', który okazał się wyznawcą choasu?? Doprowadził do śmierci własnej córki[[Julienne]], którą wykorzystał jako tanka. Potencjalnie wróci, bo przed smiercią, zbiegł z własnego domu(tepło go).
