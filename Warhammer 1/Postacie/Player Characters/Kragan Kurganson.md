@@ -19,6 +19,11 @@
 - Matka: Ulla Strikingstone (Mytniczka)
 - Brat 1: Kogan Kurganson (Skryba)
 - Brat 2: Magnar Kurganson (Zabójca Trolli)
+**Backstory**:
+	Sytuacja rodzinna Kragana zawsze była skomplikowana. Jego matka nigdy nie lubiła opowiadać czemu urodziła dziecko takiego krasnoluda jakim był Kurgan, a tym bardziej dlaczego nadała temu dziecku nazwisko w imieniu jego ojca. 
+	Kragan w młodym wieku dołączył do Szarych Pięściarzy, klubu bokserskiego podlegającego Gildii Wojowników w Karak Norn. Szukał sposobu na stanie się mężczyzną, czego jego nieobecny ojciec nigdy nie mógłby go nauczyć. 
+	Wiecznie motywowany zwycięstwem, zawsze czując dreszczyk walki, jego pierwsza przegrana (oraz każda kolejna) była dla niego szokiem. Jednego razu, przed bardzo ważną dla niego walką finałową w zawodach klubowych, zdecydował on się zażyć *specjalnych medykamentów* w celu zwycięstwa. Mimo spektakularnego zwycięstwa, jego oszustwo zostało wkrótce odkryte, a on wygnany. 
+	Od tego czasu Kragan został zabójcą trolli, chociaż bardziej zależy mu na dobrej bijatyce i walce niż na chwalebnej śmierci. 
 Zaczął podróże z:
 - [[Kurgan Kraganson]]
 - [[Alfred]]
